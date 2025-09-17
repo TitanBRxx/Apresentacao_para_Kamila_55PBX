@@ -1,4 +1,4 @@
-#Projeto de Onboarding com Jira: Uma Simulação Prática
+Projeto de Onboarding com Jira: Uma Simulação Prática
 
 
 <br>
@@ -14,7 +14,7 @@ Nesta etapa, criei um projeto no Jira e utilizei o Product Backlog para registra
 <br>
 <img width="1876" height="886" alt="Histórias no Backlog" src="https://github.com/user-attachments/assets/ae94217f-5eeb-4541-b3aa-682d10f45e65" />
 
-##2. Iniciando o Trabalho: O Sprint 1
+2. Iniciando o Trabalho: O Sprint 1
 
 
 Com as tarefas organizadas no backlog, iniciei o Sprint 1 (um ciclo de trabalho com duração de uma semana). Para o sprint, selecionei duas histórias cruciais que seriam entregues no período: a Reunião de Kick-off e a Coleta de Dados do Cliente.
@@ -22,7 +22,7 @@ Com as tarefas organizadas no backlog, iniciei o Sprint 1 (um ciclo de trabalho 
 <br>
 <img width="1886" height="826" alt="Transferência das histórias para o sprint" src="https://github.com/user-attachments/assets/3bd0470f-d703-41b1-973d-608bf7915253" />
 
-##3. Comunicação e Documentação do Projeto
+3. Comunicação e Documentação do Projeto
 
 
 Para garantir a transparência e o alinhamento das partes, a comunicação é fundamental. Como parte do Sprint 1, elaborei um modelo de ata de reunião fictícia (registrando as decisões tomadas) e um modelo de e-mail de follow-up para as partes interessadas. Isso exemplifica a minha atenção aos detalhes e o compromisso com a documentação do projeto, conforme a descrição da vaga.
